@@ -22,7 +22,7 @@ const ListVolunteers = () => {
       <nav className="navbar">
         <ul>
           <li><Link to="/ListVolunteers">מתנדבים</Link></li>
-          <li><Link to="/new-request">בקשה חדשה</Link></li>
+          <li><Link to="/NewRequestPage">בקשה חדשה</Link></li>
           <li><Link to="/about">אודותינו</Link></li>
           <li><Link to="/donate">לתרומות</Link></li>
         </ul>
